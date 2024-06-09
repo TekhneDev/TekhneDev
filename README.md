@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, Node.js and Java<br>🎯 Goals: Mastering many full stack tools<br>🎲 Fun fact: I am gearhead, lol</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, Node.js and Java<br>🎯 Goals: Mastering many full stack tools<br>🚗 Fun fact: I am gearhead, lol</p>
 
 ###
 
