@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carla A.K.A TekhneDev and I'm aspiring to be a Front End Developer.</p>
+<p align="left">My name is Carla A.K.A TekhneDev and I'm aspiring to be a Professional Front End Developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, Node.js and Java<br>🎯 Goals: Mastering many full stack tools<br>🚗 Fun fact: I am gearhead, lol</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, React and Node.js <br>🎯 Goals: Mastering many full stack tools<br>🚗 Fun fact: I am gearhead, lol</p>
 
 ###
 
