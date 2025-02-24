@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carla A.K.A TekhneDev and I'm aspiring to be a Professional Front End Developer.</p>
+<p align="left">My name is Carla A.K.A TekhneDev and I'm a Front End Developer.</p>
 
 ###
 
