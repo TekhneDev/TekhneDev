@@ -35,15 +35,6 @@
 </div>
 
 ###
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ktkgazsgcci47d6v53bauci">
-    <img src="https://spotify-recently-played-readme.vercel.app/&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tekhnedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
