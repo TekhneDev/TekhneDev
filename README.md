@@ -6,6 +6,28 @@
 
 <p align="left">My name is Carla A.K.A TekhneDev and I'm a Full Stack Developer.</p>
 
+[![Twitter _staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.lsantos.dev)](https://twitter.lsantos.dev)
+[![Linkedin: lsantosdev](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://linkedin.lsantos.dev)
+[![Youtube Lucas Santos](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.lsantos.dev)](https://youtube.lsantos.dev)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@lsantos.dev)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
+[![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
+
+My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently living in Sweden! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! 
+
+I truly love programming, especially Open-Source. I'm a developer since 2011! I love to teach and learn, due to that passion I was awarded with: 
+
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) since 2017,
+- ex [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos) for 8 years,
+- ex [Docker Captain](http://docker.com/captains) for 4 years,
+- TypeScript Champion from Deno.
+
+### Quick bits
+
+- 📬 I keep a **newsletter** filled with awesome stuff at [https://news.lsantos.dev](https://news.lsantos.dev) and would love if you joined it!
+- :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
+- I'm also working on my [complete TypeScript course](https://formacaots.com.br), it's also in Portuguese and I'm working *really* hard to make it the best course on the planet! Please share if you like it!
+
 ###
 
 <h2 align="left">About me</h2>
@@ -64,32 +86,6 @@
 </div>
 
 ###
-
-
-
-## Hi there 👋
-
-[![Twitter _staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.lsantos.dev)](https://twitter.lsantos.dev)
-[![Linkedin: lsantosdev](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://linkedin.lsantos.dev)
-[![Youtube Lucas Santos](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.lsantos.dev)](https://youtube.lsantos.dev)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@lsantos.dev)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
-[![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
-
-My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently living in Sweden! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! 
-
-I truly love programming, especially Open-Source. I'm a developer since 2011! I love to teach and learn, due to that passion I was awarded with: 
-
-- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) since 2017,
-- ex [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos) for 8 years,
-- ex [Docker Captain](http://docker.com/captains) for 4 years,
-- TypeScript Champion from Deno.
-
-### Quick bits
-
-- 📬 I keep a **newsletter** filled with awesome stuff at [https://news.lsantos.dev](https://news.lsantos.dev) and would love if you joined it!
-- :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
-- I'm also working on my [complete TypeScript course](https://formacaots.com.br), it's also in Portuguese and I'm working *really* hard to make it the best course on the planet! Please share if you like it!
 
 ## ⚡ Fun facts
 
