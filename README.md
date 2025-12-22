@@ -1,3 +1,5 @@
+<img src="https://github.com/TekhneDev/TekhneDev/blob/main/carla_braga.png" />
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -63,7 +65,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/Screen%20Shot%202021-09-03%20at%2019.26.35.png" />
+
 
 ## Hi there 👋
 
