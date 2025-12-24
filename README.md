@@ -32,7 +32,8 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 ## &nbsp;My Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,figma,angular,react,nodejs,nextjs,sass,vue,tailwind,java,spring,docker,git,postgres&theme=dark" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=TekhneDev&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TekhneDev&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 
 ###
 
