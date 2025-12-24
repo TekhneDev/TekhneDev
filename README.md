@@ -3,11 +3,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<<<<<<< HEAD
 
 [![Twitter _staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/tekhnedev)](https://x.com/tekhnedev)
 [![Linkedin: carlabraga](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://linkedin.lsantos.dev)
-=======
 [![Twitter _staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.lsantos.dev)](https://twitter.lsantos.dev)
 [![Linkedin: lsantosdev](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://linkedin.lsantos.dev)
 >>>>>>> 5025e6019470f064f0e57ca5b0beca68fb352f58
@@ -16,11 +14,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
 [![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
 
-<<<<<<< HEAD
-My name is Carla Braga A.K.A TekhneDev. I'm a Software Engineer from Brazil, currently living in Brasília! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! 
-=======
 My name is Carla Braga A.K.A TekhneDev. I'm a Software Engineer from Brazil, currently living in Brasília! I'm working mostly with TypeScript, Next.js, Node.js, and... Well, basically anything techy you put in front of me! 
->>>>>>> 5025e6019470f064f0e57ca5b0beca68fb352f58
 
 I truly love programming, especially Open-Source. I'm a developer since 2022, when I was in college. Now I have degrees in computer science and systems analysis and development, and I am currently pursuing a degree in mechatronics engineering.
 
