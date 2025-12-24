@@ -32,7 +32,7 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,angular,ts,nodejs,react,nextjs,sass,vue,tailwind,java,spring,docker,git,github,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,angular,nodejs,react,nextjs,sass,vue,tailwind,java,spring,docker,git,postgres&theme=dark" />
 
 ###
 
