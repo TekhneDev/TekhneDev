@@ -36,20 +36,6 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tekhnedev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@tekhnedev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://faculdadecinc-b8h3305.slack.com/team/U04TPHYAFDW" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/HBfRwUx1OUxySiu27N/giphy.gif"  />
 </div>
