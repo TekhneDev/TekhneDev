@@ -1,6 +1,6 @@
 <img src="./.github/assets/carla_braga.png" />
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Hey, What's up?</h1>
 
 ###
 
