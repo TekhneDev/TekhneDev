@@ -20,6 +20,11 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 ###
 
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, React and Node.js <br>🎯 Goals: Also master back end tools, like Spring <br>🚗 Fun fact: I am gearhead, lol</p>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Felipe Aguiar and I am a FullStack Developer and Graduate in computer science.. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is .net C# with Angular and NodeJs with React.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a Tech Instructor at @DIO_MAKETHECHANGE platform.
 
 ###
 
@@ -36,12 +41,6 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/HBfRwUx1OUxySiu27N/giphy.gif"  />
-</div>
-
-###
-
 ## ⚡ Fun facts
 
 - 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
@@ -50,13 +49,7 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 - I'm an adult with a late-diagnose of **ADHD** which makes my life not very easy, especially for creating things
 
 ###
-<p><strong>About me</strong></p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Felipe Aguiar and I am a FullStack Developer and Graduate in computer science.. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is .net C# with Angular and NodeJs with React.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a Tech Instructor at @DIO_MAKETHECHANGE platform.
-
-###
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/HBfRwUx1OUxySiu27N/giphy.gif"  />
+</div>
