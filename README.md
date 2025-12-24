@@ -10,24 +10,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
 [![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
 
-<p align="left">My name is Carla A.K.A TekhneDev and I'm a Full Stack Developer.</p>
+My name is Carla Braga A.K.A TekhneDev. I'm a Software Engineer from Brazil, currently living in Brasília! I'm working mostly with TypeScript, Next.js, Node.js, and... Well, basically anything techy you put in front of me! 
 
-My name is Lucas Santos (he/him). I'm a Software Engineer from Brazil, currently living in Sweden! I'm working mostly with TypeScript, Deno, Node.js, and... Well, basically anything techy you put in front of me! 
-
-I truly love programming, especially Open-Source. I'm a developer since 2011! I love to teach and learn, due to that passion I was awarded with: 
-
-- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003259) since 2017,
-- ex [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lucas_santos) for 8 years,
-- ex [Docker Captain](http://docker.com/captains) for 4 years,
-- TypeScript Champion from Deno.
-
-### Quick bits
-
-- 📬 I keep a **newsletter** filled with awesome stuff at [https://news.lsantos.dev](https://news.lsantos.dev) and would love if you joined it!
-- :book: I [wrote a book](https://tudosobrekubernetes.tech/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) about Kubernetes! It's in Portuguese but there are plans for new versions in other languages! Share to your friends if you like it 🤓
-- I'm also working on my [complete TypeScript course](https://formacaots.com.br), it's also in Portuguese and I'm working *really* hard to make it the best course on the planet! Please share if you like it!
-
-###
+I truly love programming, especially Open-Source. I'm a developer since 2022, when I was in college. Now I have degrees in computer science and systems analysis and development, and I am currently pursuing a degree in mechatronics engineering.
 
 <h2 align="left">About me</h2>
 
