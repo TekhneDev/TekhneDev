@@ -5,11 +5,10 @@
 ###
 
 [![Twitter _staticvoid](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/tekhnedev)](https://x.com/tekhnedev)
-[![Linkedin: carlabraga](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://linkedin.lsantos.dev)
-[![Youtube Lucas Santos](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.lsantos.dev)](https://youtube.lsantos.dev)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@lsantos.dev)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.lsantos.dev)
-[![Instagram: lsantosdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.lsantos.dev)
+[![Linkedin: carlabraga](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlamabraga/)](https://www.linkedin.com/in/carlamabraga/)
+[![Instagram: tekhnedev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tekhnedev/#)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tekhnedev@outlook.com)
+
 
 My name is Carla Braga A.K.A TekhneDev. I'm a Software Engineer from Brazil, currently living in Brasília! I'm working mostly with TypeScript, Next.js, Node.js, and... Well, basically anything techy you put in front of me! 
 
@@ -45,10 +44,10 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 
 ## Fun facts
 
-- I love photography, you can check my non-profit hobbyst work on [Vsco](https://vsco.co/carlammariana/gallery)
-- I am gearhead, lol, and I **love** riding motorcycles
-- I **absolutely** love all sorts of animals, I have one amazing cat, his name is Jorge, had dogs, fish, birds, and other stuff as well
-- I'm an adult with a late-diagnose of ADHD and CAPD and which makes my life not very easy, especially for creating things
+- I love photography, you can check my non-profit hobbyst work on [Vsco](https://vsco.co/carlammariana/gallery).
+- I am gearhead, lol, and I **love** riding motorcycles!
+- I **absolutely** love all sorts of animals, I have one amazing cat, his name is Jorge, had dogs, fish, birds, and other stuff as well!
+- I'm an adult with a late-diagnose of ADHD and CAPD and which makes my life not very easy, especially for creating things.
 
 ###
 
