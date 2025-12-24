@@ -43,13 +43,12 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 
 ###
 
-## ⚡ Fun facts
+## Fun facts
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, React and Node.js <br>🎯 Goals: Also master back end tools, like Spring <br>🚗 Fun fact: I am gearhead, lol</p>
-- 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
-- I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
-- I **absolutely** love all sorts of animals, I have three amazing cats, had dogs, fish, birds, and other stuff as well
-- I'm an adult with a late-diagnose of **ADHD** which makes my life not very easy, especially for creating things
+- I love photography, you can check my non-profit hobbyst work on [Vsco](https://vsco.co/carlammariana/gallery)
+- I am gearhead, lol, and I **love** riding motorcycles
+- I **absolutely** love all sorts of animals, I have one amazing cat, his name is Jorge, had dogs, fish, birds, and other stuff as well
+- I'm an adult with a late-diagnose of ADHD and CAPD and which makes my life not very easy, especially for creating things
 
 ###
 
