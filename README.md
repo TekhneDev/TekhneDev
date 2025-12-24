@@ -19,8 +19,6 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, React and Node.js <br>🎯 Goals: Also master back end tools, like Spring <br>🚗 Fun fact: I am gearhead, lol</p>
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Felipe Aguiar and I am a FullStack Developer and Graduate in computer science.. 
 <br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
@@ -47,6 +45,7 @@ I truly love programming, especially Open-Source. I'm a developer since 2022, wh
 
 ## ⚡ Fun facts
 
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular, React and Node.js <br>🎯 Goals: Also master back end tools, like Spring <br>🚗 Fun fact: I am gearhead, lol</p>
 - 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/khaosdoctor/7d688dc5ab3b0981522ca7ca7c07a5b4)
 - I **absolutely** love all sorts of animals, I have three amazing cats, had dogs, fish, birds, and other stuff as well
