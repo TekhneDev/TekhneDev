@@ -1,4 +1,4 @@
-<img src="./.github/assets/carla_braga.png" />
+// <img src="./.github/assets/carla_braga.png" />
 
 <h1 align="left">👋 Hey, What's up?</h1>
 
@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tekhnedev@outlook.com)
 
 
-My name is Carla Braga A.K.A TekhneDev. I'm a Software Engineer from Brazil, currently living in Brasília! I'm working mostly with TypeScript, Next.js, Node.js, and... Well, basically anything techy you put in front of me! 
+My name is Carla Braga A.K.A TekhneDev. I'm a Data Analist from Brazil, currently living in Brasília! I'm working mostly with TypeScript, Next.js, Node.js, and... Well, basically anything techy you put in front of me! 
 
 I truly love programming, especially Open-Source. I'm a developer since 2022, when I was in college. Now I have degrees in computer science and systems analysis and development, and I am currently pursuing a degree in mechatronics engineering.
 
