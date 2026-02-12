@@ -31,7 +31,7 @@ I truly love researching and use that knowledge in work. I'm a Data Analist sinc
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,angular,react,nodejs,nextjs,sass,vue,tailwind,java,spring,docker,git,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,azure,anaconda,tensorflow,py,pycharm,git,mysql,postgres&theme=dark" />
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TekhneDev&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 
