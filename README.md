@@ -1,4 +1,4 @@
-// <img src="./.github/assets/carla_braga.png" />
+<!-- <img src="./.github/assets/carla_braga.png" /> -->
 
 <h1 align="left">👋 Hey, What's up?</h1>
 
