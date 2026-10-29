@@ -10,9 +10,9 @@
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tekhnedev@outlook.com)
 
 
-My name is Carla Braga A.K.A TekhneDev. I'm a Data Analist from Brazil, currently living in Brasília! I'm working mostly with Power BI, Analytics, SQL, and... Well, basically anything techy you put in front of me! 
+My name is Carla Braga A.K.A TekhneDev. I'm now a Data Scientist from Brazil, currently living in Brasília! I'm working mostly with ML, Big Data, SQL, and... Well, basically anything techy you put in front of me! 
 
-I truly love researching and use that knowledge in work. I'm a Data Analist since 2023, when I was in college. Now I have degrees in computer science and systems analysis and development, and I am currently pursuing a degree in mechatronics engineering and in a mba.
+I truly love researching and use that knowledge in work. I'm a Data Analist since 2023, when I was in college. Now I have degrees in computer science, systems analysis and development, a mba in data science and I am currently pursuing a degree in mechatronics engineering.
 
 <h2 align="left">About me</h2>
 
@@ -21,7 +21,7 @@ I truly love researching and use that knowledge in work. I'm a Data Analist sinc
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi again! Nice to meet you, you can call me Carla. 
 <br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to become a Data Scientist.<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" /> My main stack is Business Intelligence and Data Analytics.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" /> My main stack is ML and Automation.
 <br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Medium-Light%20Skin%20Tone.png" alt="Woman Medium-Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
 <br />
